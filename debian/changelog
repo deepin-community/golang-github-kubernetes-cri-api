@@ -1,5 +1,18 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-kubernetes-cri-api (0.27.15-1) unstable; urgency=medium
 
-  * Initial release
+  * New upstream version
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Reinhard Tartler <siretart@tauware.de>  Sun, 30 Jun 2024 11:58:13 -0400
+
+golang-github-kubernetes-cri-api (0.25.3-2) unstable; urgency=medium
+
+  * Upload to unstable
+  * Relax dependencies on grpc
+
+ -- Reinhard Tartler <siretart@tauware.de>  Sun, 30 Jun 2024 11:27:58 -0400
+
+golang-github-kubernetes-cri-api (0.25.3-1) experimental; urgency=medium
+
+  * Initial release (Closes: #1073297)
+
+ -- Reinhard Tartler <siretart@tauware.de>  Sun, 16 Jun 2024 07:59:41 -0400
